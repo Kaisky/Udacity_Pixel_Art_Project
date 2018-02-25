@@ -16,5 +16,6 @@ The study cases and exercises are sorted by the source they are relating to:
 The Grow with Google challenge scholarship projects as per the program syllabus:
  
 **1.Pixel Art Maker:**
-  - [Demo](https://kaisky.github.io/Udacity_Pixel_Art_Project/PixelArtMaker/)
+  - [Projects instructions and requirements](https://github.com/Kaisky/studyCasesAndExercises/tree/master/PixelArtMaker)
+  - [View Demo](https://kaisky.github.io/Udacity_Pixel_Art_Project/PixelArtMaker/)
 
