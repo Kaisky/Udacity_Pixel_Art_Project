@@ -22,8 +22,8 @@ The Grow with Google challenge scholarship projects as per the program syllabus:
  - <a href="https://kaisky.github.io/frontEndExercises/animalTradingCards/card.html" target="_blank">View Project Demo</a>
 
 **2. Pixel Art Maker:**
-  - <a href="https://github.com/Kaisky/frontEndExercises/tree/master/PixelArtMaker" target="_blank">Projects instructions and requirements</a>
-  - <a href="https://kaisky.github.io/frontEndExercises/PixelArtMaker/" target ="_blank">View Project Demo</a>
+  - <a href="https://kaisky.github.io/frontEndExercises/PixelArtMaker/ target="_blank">Projects instructions and requirements</a>
+  - <a href="https://kaisky.github.io/frontEndExercises/PixelArtMaker/PixelArtMaker.html" target ="_blank">View Project Demo</a>
 
 ## Contributors
 
