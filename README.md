@@ -1,8 +1,9 @@
 # Welcome to FrontEnd study cases and exercises 
 
-This project has a goal to contain all the study projects and exercises the I complete throughout my path to become a FrontEnd Developer 
+When you started your first course as a FrontEnd developer you probably had the situation that I went through by haveing moments like "I need some more exercises to play with some code, etc."...Well this project has a goal to help every junior FrontEnd developer to have study projects and exercises to play with while solving problems by writing code.
 
-The project contains and will be continuously updated with study cases and exercises from different courses that I'm going through during my transition from Business Analyst to a Front End Developer. 
+The project contains and will be continuously updated with study cases and exercises from different courses and resourses that I went throughout my path to become a FrontEnd Developer. 
+
 The study cases and exercises are sorted by the source they are related to: 
 
   - Courses 
@@ -19,3 +20,6 @@ The Grow with Google challenge scholarship projects as per the program syllabus:
   - [Projects instructions and requirements](https://github.com/Kaisky/studyCasesAndExercises/tree/master/PixelArtMaker)
   - [View Demo](https://kaisky.github.io/studyCasesAndExercises/PixelArtMaker/)
 
+### Contributors 
+
+Any Contributions especially the ones with interesting exercises for junior level are WELCOME!  
