@@ -1,0 +1,63 @@
+.base-layer{
+    width: 320px;
+    height: auto;
+    background-color: #e6e6e6;
+    box-shadow: 10px 10px 15px #e6e6e6;
+}
+.card-container{
+    transition: transform 1s;
+    width: 320px;
+    height: auto;
+    border: solid 1px #808080;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    box-shadow: 10px 10px 15px  #bfbfbf;
+    background-image:
+
+        url(https://cardiff.imgix.net/__data/assets/image/0005/981878/GettyImages-817621116.jpg?w=570&h=321&fit=crop&q=60&auto=format);
+
+    background-size: : 500px;
+
+
+}
+.card-container:hover{
+    transform: translate(15px, 0px);
+}
+
+.card-image{
+    width: 300px;
+    height: 200px;
+    border: solid 1px #808080;
+    margin: 0px 10px 10px 10px;
+}
+
+.animal-name{
+    width: 300px;
+    text-align: center;
+    border: solid 1px #808080;
+    margin: 10px;
+}
+
+.card-content{
+    width: 300px;
+    height: auto;
+    border: solid 1px;
+    margin: 0px 10px 10px 10px;
+}
+
+.int-fact{
+    font-style: italic;
+    padding: 0px 10px 0px 10px;
+}
+
+.animal-list{
+    list-style: none;
+    padding: 5px;
+}
+.animal-list-items{
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.animal-description{
+    padding: 0px 10px 0px 10px;
+}
