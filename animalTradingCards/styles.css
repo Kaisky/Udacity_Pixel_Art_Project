@@ -10,17 +10,14 @@
     height: auto;
     border: solid 1px #808080;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: white;
     box-shadow: 10px 10px 15px  #bfbfbf;
     background-image:
 
-        url(https://cardiff.imgix.net/__data/assets/image/0005/981878/GettyImages-817621116.jpg?w=570&h=321&fit=crop&q=60&auto=format);
-
-    background-size: : 500px;
-
-
+        url(https://www.oceanrisksummit.com/Content/images/ocean-poster.png);
 }
 .card-container:hover{
-    transform: translate(15px, 0px);
+    transform: translate(10px, 10px);
 }
 
 .card-image{
@@ -46,6 +43,7 @@
 
 .int-fact{
     font-style: italic;
+    font-weight: bold;
     padding: 0px 10px 0px 10px;
 }
 
