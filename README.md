@@ -19,7 +19,7 @@ The Grow with Google challenge scholarship projects as per the program syllabus:
 
 **1. Animal Trading Cards Project**
  - <a href="https://github.com/Kaisky/frontEndExercises/tree/master/animalTradingCards" target="_blank">Project Instructions and requirements</a>
- - <a href="">View Project Demo</a>
+ - <a href="https://kaisky.github.io/frontEndExercises/animalTradingCards/card.html">View Project Demo</a>
 
 **2. Pixel Art Maker:**
   - <a href="https://github.com/Kaisky/frontEndExercises/tree/master/PixelArtMaker" target="_blank">Projects instructions and requirements</a>
