@@ -4,25 +4,31 @@ const gridWidth = $("#inputWidth");
 const grid = $("#pixelCanvas");
 const sizePicker = $("#sizePicker");
 
-
-
 //Event Listener that passes the selected width and height and calls makeGrid
 sizePicker.submit(function(event) {
     event.preventDefault();
     makeGrid();
 });
-
 //Event Listener that Deletes the Grid  on "Delete Canvas" button click
 $("#deleteGrid").click(removeGrid);
-
-//clea clears the grid content
+//clearGrid clears the grid content
 $("#clearGrid").click(clearGrid);
-
-//Deletes the Grid  on "Delete Canvas" button click
-grid.on("click",".tableCell", function () {
-    colorFull($(this));//Event Listener that callbacks colorFull on click
+// Event Listeners that set the backgroung color on mouse interactions
+let dragToFill = false;
+grid.on("mousedown",".tableCell", function () {
+    dragToFill = true;
+    colorFull($(this));
 });
-
+grid.on("mouseenter",".tableCell", function(){
+        if (dragToFill){
+            colorFull($(this));
+        }
+});
+/*setting up the dragToFill options to falso so that when the
+ mouse is uncklicked it  stops drawing*/
+$(document).mouseup(function () {
+    dragToFill = false;
+});
 // makeGrid creates the grid from the passed height and Width
 function makeGrid() {
     removeGrid();
@@ -38,18 +44,17 @@ function makeGrid() {
             $(this).append('<td class="tableCell">');
     });
     }
-}
-
-//removeGrid Resets the grid function
+};
+//removeGrid is a function that deletes the Grid
 function removeGrid() {
     grid.empty();
-}
+};
+//clearGrid is the function that cleard the canvas to a blank one
 function clearGrid() {
     $('td').css("background-color","white")
-}
-
+};
 //colorFull Adds background color to the selected element
 function colorFull(element) {
     let color =  pickColor.val();
     $(element).css("background-color",color);
-}
+};
