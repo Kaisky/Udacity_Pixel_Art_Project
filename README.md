@@ -2,7 +2,7 @@
 
 When you started your first course as a FrontEnd developer you probably had the situation that I went through by having moments like "I need some more exercises to play with some code, etc."...Well, this project has a goal to help every junior FrontEnd developer to have study projects and exercises to play with while solving problems by writing code.
 
-The project contains and will be continuously updated with study cases and exercises from different courses and resources that I went throughout my path of becoming a FrontEnd Developer. 
+The project contains and will be continuously updated with study cases and exercises from different courses and resources that the contributors went throughout their path of becoming a FrontEnd Developer. 
 
 The study cases and exercises are sorted by the source they are related to: 
 
