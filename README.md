@@ -18,7 +18,7 @@ The study cases and exercises are sorted by the source they are related to:
 The Grow with Google challenge scholarship projects as per the program syllabus:
 
 **1. Animal Trading Cards Project**
- - <a href="https://kaisky.github.io/frontEndExercises/animalTradingCards/"target="blank">Project Instructions and requirements</a>
+ - <a href="https://kaisky.github.io/frontEndExercises/animalTradingCards/" target="blank">Project Instructions and requirements</a>
  -  <a href="https://kaisky.github.io/frontEndExercises/animalTradingCards/card.html" target="blank">View Project Demo</a>
 
 **2. Pixel Art Maker:**
