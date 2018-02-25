@@ -13,7 +13,8 @@ The study cases and exercises are sorted by the source they are relating to:
 ## Courses 
 
 ### Udacity - Grow with Google
-The Grow with Google challenge scholarship projects as per the program syllabus 
-  **1.Pixel Art Maker:
-  -[Demo](https://kaisky.github.io/Udacity_Pixel_Art_Project/PixelArtMaker/)**
+The Grow with Google challenge scholarship projects as per the program syllabus:
+ 
+**1.Pixel Art Maker:**
+  - [Demo](https://kaisky.github.io/Udacity_Pixel_Art_Project/PixelArtMaker/)
 
