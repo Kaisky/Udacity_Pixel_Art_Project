@@ -26,14 +26,12 @@ If you'd like to start from scratch without any files, feel free to do so! You l
 
 You can download the starter code through either:
 
--[The Pixel Art Maker repository on GitHub](https://github.com/udacity/project-pixel-art-maker-starter#instructions)
-
--[This zipped folder](https://github.com/udacity/project-pixel-art-maker-starter/archive/master.zip)
+-[This zipped folder](https://github.com/udacity/project-pixel-art-maker-starter/archive/master.zip){:target="_blank"}
 
 The starter code includes all required HTML input fields, as well as some basic styling. A skeleton of the makeGrid() function is provided as well.
 
 ## Project Rubric
-Review the [Pixel Art Maker project rubric](https://review.udacity.com/#!/rubrics/641/view) carefully, and refer to it often while you build the project.
+Review the [Pixel Art Maker project rubric](https://review.udacity.com/#!/rubrics/641/view22){:target="_blank"} carefully, and refer to it often while you build the project.
 
 Development Strategy
 Before writing any code, try loading up `index.html` from the starter project to see how things look! Notice that the `design.js` file is implemented in the` <body>` tag in the `index.html` file. Your goal is to build out the `design.js` file to achieve all the interactive elements on the page!
