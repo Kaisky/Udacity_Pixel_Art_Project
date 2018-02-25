@@ -1,14 +1,14 @@
-# Welcome to Front End Study Exersices 
+# Welcome to FrontEnd study cases and exercises 
 
-This project has a goal to have all the study projects and exercises the I have completed throughout my path to become a Front End Developer 
+This project has a goal to contain all the study projects and exercises the I complete throughout my path to become a FrontEnd Developer 
 
-The project contains  and will be continuously updated with study cases and exercises from different coursres that I'm going trrough during my transition from Business Analyst to a Front End Developer. 
-The study cases and exercises are sorted by the source they are relating to: 
+The project contains and will be continuously updated with study cases and exercises from different courses that I'm going through during my transition from Business Analyst to a Front End Developer. 
+The study cases and exercises are sorted by the source they are related to: 
 
   - Courses 
   - Books 
-  - Hackatons 
-  - Dev Challanges 
+  - Hackathons 
+  - Dev Challenges 
 
 ## Courses 
 
