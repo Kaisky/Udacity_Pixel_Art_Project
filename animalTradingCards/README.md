@@ -1,6 +1,6 @@
-##Project Instructions
+## Project Instructions
 
-###Review the Animal Trading Cards <a href="https://review.udacity.com/#!/projects/7428479271/rubric" target="_blank">project rubric</a>.
+### Review the Animal Trading Cards <a href="https://review.udacity.com/#!/projects/7428479271/rubric" target="_blank">project rubric</a>.
 
 1. Download and unzip <a href="https://github.com/udacity/fend-animal-trading-cards/archive/master.zip">fend-animal-trading-cards-master.zip</a>. Inside, you'll find `card.html`, `styles.css`, `placeholder.png`, and the `design-prototype.png`.
 
