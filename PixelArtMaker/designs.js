@@ -9,10 +9,8 @@ sizePicker.submit(function(event) {
     event.preventDefault();
     makeGrid();
 });
-
 //Event Listener that Deletes the Grid  on "Delete Canvas" button click
 $("#deleteGrid").click(removeGrid);
-
 //clearGrid clears the grid content
 $("#clearGrid").click(clearGrid);
 
@@ -32,7 +30,7 @@ grid.on("mouseenter",".tableCell", function(){
 $(document).mouseup(function () {
     dragToFill = false;
 });
-// Event Listeners that set the backgroung color to none on mouse interactions - used for undo or delete colors
+// Event Listeners that set the backgroung color to none on mouse interactions - used for undo or delete
 let dragToDelete = false
 grid.on("contextmenu",".tableCell", function (event) {
     event.preventDefault();

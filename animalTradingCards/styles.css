@@ -3,21 +3,23 @@
     height: auto;
     background-color: #e6e6e6;
     box-shadow: 10px 10px 15px #e6e6e6;
+    position: relative;
 }
 .card-container{
-    transition: transform 1s;
-    width: 320px;
+    max-width: 320px;
+    width: 100%;
     height: auto;
     border: solid 1px #808080;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     color: white;
     box-shadow: 10px 10px 15px  #bfbfbf;
     background-image:
-
         url(https://www.oceanrisksummit.com/Content/images/ocean-poster.png);
+
 }
-.card-container:hover{
-    transform: translate(10px, 10px);
+
+.card-container:hover {
+    transform: translate(10px,10px);
 }
 
 .card-image{
